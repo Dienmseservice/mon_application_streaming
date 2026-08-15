@@ -1,0 +1,16 @@
+# Fichiers compilés et dossiers temporaires Flutter/Dart
+.dart_tool/
+.build/
+build/
+.pub/
+.pub-cache/
+
+# Fichiers de configuration IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Fichiers système
+.DS_Store
+Thumbs.db
